@@ -1,7 +1,7 @@
 # MobileUpGallery
 Тестовое клиент-серверное приложение для компании MobileUp
 
-<img src="https://user-images.githubusercontent.com/83715610/189245097-0d35c60d-4bd2-4e34-a877-3b417d4a2903.png" width=200 height=350>
+<img src="https://user-images.githubusercontent.com/83715610/189245097-0d35c60d-4bd2-4e34-a877-3b417d4a2903.png" width=250 height=400>
 
 
 # Реализация
