@@ -1,5 +1,5 @@
 # MobileUpGallery
-Тестовое клиент-серверное приложение от компании MobileUp
+Тестовое клиент-серверное приложение для компании MobileUp
 
 <img width="495" alt="Снимок экрана 2022-09-09 в 02 49 29" src="https://user-images.githubusercontent.com/83715610/189245097-0d35c60d-4bd2-4e34-a877-3b417d4a2903.png">
 
